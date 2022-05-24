@@ -1,0 +1,15 @@
+.header1{
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.para{
+    color: salmon;
+    font-size: 15px;
+    text-align: center;
+}
